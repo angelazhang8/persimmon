@@ -1,5 +1,12 @@
 title: Angela Zhang
 logo: /assets/img/ski.jpg
 theme: jekyll-theme-minimal
+description:
+email: angelazhangyr@gmail.com
+resume: here
+linkedin: here
+behance: here
+devpost: here
+medium: here
 plugins: 
   - jekyll-seo-tag
