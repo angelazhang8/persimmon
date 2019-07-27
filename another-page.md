@@ -31,6 +31,7 @@ _Halifax, Nova Scotia_
 ***
 
 _Duntroon, Ontario_
+
 ![pier](/assets/img/ski.jpg)
 
 
