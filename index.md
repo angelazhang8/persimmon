@@ -37,6 +37,7 @@ In a very strange way, following a protocol is a lot like cooking.
 | [Medium] (https://medium.com/@yueyue_zhang) |
 
 ~~Don't try this at home~~, a video animated entirely with Powerpoint
+
 [video] (https://www.youtube.com/watch?v=Hre1MePyNls&feature=youtu.be)
 [slideshow] (./other/video.pptx)
 
