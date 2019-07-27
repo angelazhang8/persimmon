@@ -8,7 +8,7 @@ _Recently, I've had the opportunity to travel a little bit. I took some photos. 
 
 > a view from the 43rd floor of Toronto
 
-![buildings](/assets/img/travel/Toronto/buildings.jpg)
+![buildings](/assets/img/travel/Nova_Scotia/feet.JPG)
 ![down](/assets/img/travel/Toronto/down.jpg)
 ![rainbow](/assets/img/travel/Toronto/rainbow.jpg)
 
