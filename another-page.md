@@ -10,15 +10,15 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 
 > _a view from the 43rd floor in Toronto_
 
-![buildings](/assets/img/travel/Toronto/down.jpg)
+![buildings](./assets/img/buildings.jpg)
 
 > _looking down_
 
-![down](/assets/img/travel/Toronto/down.jpg)
+![down](./assets/img/down.jpg)
 
 > _can you see the rainbow?_
 
-![rainbow](/assets/img/travel/Toronto/rainbow.jpg)
+![rainbow](./assets/img/rainbow.jpg)
 
 ***
 
@@ -26,17 +26,17 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 
 > _Wolfville, Nova Scotia_
 
-![feet](/assets/img/travel/Nova_Scotia/feet.jpg)
+![feet](./assets/img/feet.jpg)
 
 > _view of Kings in early morning_
 
-![lake](/assets/img/travel/Nova_Scotia/lake.jpg)
+![lake](./assets/img/lake.jpg)
 
-![pano](/assets/img/travel/Nova_Scotia/pano.jpg)
+![pano](./assets/img/pano.jpg)
 
 > _South End of Halifax, Nova Scotia_
 
-![pier](/assets/img/travel/Nova_Scotia/pier.jpg)
+![pier](./assets/img/pier.jpg)
 
 ***
 
