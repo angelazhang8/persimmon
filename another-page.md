@@ -4,7 +4,9 @@ layout: default
 
 ## Blog
 
-_Recently, I've had the opportunity to travel a little bit. I took some photos. Enjoy!_
+Recently, I've had the opportunity to travel a little bit. I took some photos. Enjoy!
+
+#### Toronto
 
 _a view from the 43rd floor of Toronto_
 
@@ -15,6 +17,8 @@ _a view from the 43rd floor of Toronto_
 ![rainbow](/assets/img/travel/Toronto/rainbow.jpg)
 
 ***
+
+#### Nova Scotia
 
 _Wolfville, Nova Scotia_
 
@@ -30,9 +34,10 @@ _Halifax, Nova Scotia_
 
 ***
 
+#### Skiing in Duntroon
+
 _Duntroon, Ontario_
 
 ![pier](/assets/img/ski.jpg)
-
 
 [back](./)
