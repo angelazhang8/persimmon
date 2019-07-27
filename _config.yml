@@ -4,11 +4,8 @@ theme: jekyll-theme-minimal
 description: 
 
   UW CS '24, P2P '19, CWSF '18, QCSYS '18, SHAD '17, DECA ICDC '16 & '18
-  
-resume: here
-linkedin: here
-behance: here
-devpost: here
-medium: here
+
+[I'm an inline-style link](https://www.google.com)
+
 plugins: 
   - jekyll-seo-tag
