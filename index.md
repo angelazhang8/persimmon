@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Check out my blog!](./another-page.html)
+_How inspirational are inspirational quotes anyways?_
 
-# About
+# About me
 
 Hi, nice to meet you!
 
@@ -12,13 +12,19 @@ My name is **Angela Zhang**.
 
 I'm an incoming first year student at the _University of Waterloo_, studying Computer Science. 
 
-### Interests
+[Check out my blog!](./another-page.html)
 
-I'm interested in molecular genetics and developmental biology. 
-In my free time, I like 
+## Interests & Hobbies
 
-## Header 3
+Aside from CS, I'm interested in molecular genetics and developmental biology.
+In my free time, I like to play Go, chess, and board games with friends. 
+I also enjoy cross country skiing, creative writing, and art.
 
+### Update
+
+Right now, I'm a summer student in a stem cell/embryology lab in Toronto. I'm learning a lot about how research is conducted and the equipment and protocols that lead to scientific discovery. 
+
+In a very strange way, following a protocol is a lot like cooking. 
 
 #### Header 4
 
@@ -26,55 +32,18 @@ In my free time, I like
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| resume           | good swedish fish | nice  |
+| LinkedIn | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+#### Contact info
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
+Email: angelazhangyr@gmail.com
 
 
 
