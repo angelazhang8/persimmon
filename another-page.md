@@ -10,7 +10,7 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 
 > _a view from the 43rd floor in Toronto_
 
-![buildings](/assets/img/travel/Toronto/buildings.jpg)
+![buildings](/assets/img/travel/Toronto/down.jpg)
 
 > _looking down_
 
