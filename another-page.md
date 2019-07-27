@@ -16,7 +16,7 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 
 ![down](/assets/img/travel/Toronto/down.jpg)
 
-> _can you see the ~~rainbow~~?_
+> _can you see the rainbow?_
 
 ![rainbow](/assets/img/travel/Toronto/rainbow.jpg)
 

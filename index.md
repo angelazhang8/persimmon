@@ -33,13 +33,13 @@ In a very strange way, following a protocol is a lot like cooking.
 | [GitHub](https://github.com/xxxzhangxxx)   | 
 | [LinkedIn](https://www.linkedin.com/in/angela-z-087417111/) |
 | [Devpost](https://devpost.com/zhana3844) |
-| [Behance]( https://www.behance.net/angelazhang3) |
-| [Medium] (https://medium.com/@yueyue_zhang) |
+| [Behance](https://www.behance.net/angelazhang3) |
+| [Medium](https://medium.com/@yueyue_zhang) |
 
 ~~Don't try this at home~~, a video animated entirely with Powerpoint
 
-[video] (https://www.youtube.com/watch?v=Hre1MePyNls&feature=youtu.be)
-[slideshow] (./other/video.pptx)
+[video](https://www.youtube.com/watch?v=Hre1MePyNls&feature=youtu.be)
+[slideshow](./other/video.pptx)
 
 ***
 
