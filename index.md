@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_How inspirational are inspirational quotes anyways?_
+_How effective at being inspirational are inspirational quotes anyway?_
 
 # About me
 
@@ -14,8 +14,6 @@ I'm an incoming first year student at the _University of Waterloo_, studying Com
 
 [Check out my blog!](./another-page.html)
 
-## Interests & Hobbies
-
 Aside from CS, I'm interested in molecular genetics and developmental biology.
 In my free time, I like to play Go, chess, and board games with friends. 
 I also enjoy cross country skiing, creative writing, and art.
@@ -26,24 +24,29 @@ Right now, I'm a summer student in a stem cell/embryology lab in Toronto. I'm le
 
 In a very strange way, following a protocol is a lot like cooking. 
 
-#### Header 4
+***
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Projects
 
-###### Header 6
+| Check out my work here               | 
+|:-------------                   |
+| [GitHub](https://github.com/xxxzhangxxx)   | 
+| [LinkedIn](https://www.linkedin.com/in/angela-z-087417111/) |
+| [Devpost](https://devpost.com/zhana3844) |
+| [Behance]( https://www.behance.net/angelazhang3) |
+| [Medium] (https://medium.com/@yueyue_zhang) |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| resume           | good swedish fish | nice  |
-| LinkedIn | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+~~Don't try this at home~~, a video animated entirely with Powerpoint
+[video] (https://www.youtube.com/watch?v=Hre1MePyNls&feature=youtu.be)
+[slideshow] (./other/video.pptx)
+
+***
 
 #### Contact info
 
 Email: angelazhangyr@gmail.com
+
+Resume available upon request
 
 
 
