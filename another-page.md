@@ -8,7 +8,7 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 
 #### Toronto
 
-> _a view from the 43rd floor in Toronto_
+> _a view from the 43rd floor_
 
 ![buildings](/assets/img/buildings.jpg)
 
