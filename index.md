@@ -28,7 +28,7 @@ In a very strange way, following a protocol is a lot like cooking.
 
 ## Projects
 
-| Check out my work here               | 
+| Links to projects              | 
 |:-------------                   |
 | [GitHub](https://github.com/xxxzhangxxx)   | 
 | [LinkedIn](https://www.linkedin.com/in/angela-z-087417111/) |
