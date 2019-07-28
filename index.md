@@ -47,7 +47,6 @@ In a very strange way, following a protocol is a lot like cooking.
 
 Email: angelazhangyr@gmail.com
 
-Resume available upon request
 
 
 
