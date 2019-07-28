@@ -12,7 +12,7 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 
 ![buildings](/assets/img/buildings.jpg)
 
-<!-- > _looking down_
+> _looking down_
 
 ![down](/assets/img/down.jpg)
 
@@ -37,12 +37,12 @@ Recently, I've had the opportunity to travel a little bit. I took some photos. E
 > _South End of Halifax, Nova Scotia_
 
 ![pier](/assets/img/pier.jpg)
- -->
+
 ***
 
 #### Skiing in Duntroon
 
-_Duntroon, Ontario_
+> _Duntroon, Ontario_
 
 ![pier](/assets/img/ski.jpg)
 
